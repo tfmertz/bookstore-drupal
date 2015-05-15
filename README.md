@@ -11,11 +11,14 @@ A drupal project that uses basic pages, custom content types, features, contrib 
 #### User Information
 
 **Database:** tommertz_bookstore <br>
-**Database:** User tommertz_user <br>
-**Database:** Pass 1234
+**Database User:** tommertz_user <br>
+**Database Pass:** 1234
 
 **User:** admin <br>
 **Pass:** admin
+
+**User:** reviewer <br>
+**Pass:** reviewer
 
 #### Set up
 
